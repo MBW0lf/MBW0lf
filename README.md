@@ -14,5 +14,6 @@
 <P>You can contact me through email: reyneh.100.mb@gmail.com</P>
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBWolf&layout=compact&hide=TSQL&theme=dracula" alt="MohammadBarabadi" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBWolf&layout=compact&hide=TSQL&theme=dracula" alt="MBWolf" />
 </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBWolf&show_icons=true&locale=en&layout=compact" alt="MBWolf" /></p>
