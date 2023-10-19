@@ -6,8 +6,8 @@
 [![Github](https://img.shields.io/badge/-white?style=social&logo=github&label=Follow
 )](https://github.com/MBW0lf)
 
-🤠 My name is Mohammad.
-🎓 I hold a bachelor's degree in Electrical Engineering with a specialization in Control from Amirkabir University of Technology.
-🤖 I have a strong interest in and actively engage in the field of robotics.
+<P>🤠 My name is Mohammad</P>
+<P>🎓 I hold a bachelor's degree in Electrical Engineering with a specialization in Control from Amirkabir University of Technology</P>
+<P>🤖 I have a strong interest in and actively engage in the field of robotics</P>
 
-You can contact me through email: reyneh.100.mb@gmail.com
+<P>You can contact me through email: reyneh.100.mb@gmail.com</P>
