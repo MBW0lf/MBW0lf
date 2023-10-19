@@ -12,7 +12,7 @@
 <P>🤖 I have a strong interest and actively engage in the field of robotics</P>
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBWolf&layout=compact&theme=dracula" alt="MBWolf" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBWolf&hide=css&layout=compact&theme=dracula" alt="MBWolf" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
