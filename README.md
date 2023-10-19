@@ -13,4 +13,6 @@
 
 <P>You can contact me through email: reyneh.100.mb@gmail.com</P>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBWolf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBWolf&layout=compact&hide=TSQL&theme=dracula" alt="MohammadBarabadi" />
+</div>
