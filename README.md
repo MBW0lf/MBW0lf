@@ -11,8 +11,7 @@
 <P>🎓 I hold a bachelor's degree in Electrical Engineering with a specialization in Control from Amirkabir University of Technology</P>
 <P>🤖 I have a strong interest and actively engage in the field of robotics</P>
 
+<h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBW0lf&hide=Makefile,Tex&layout=compact&theme=dracula"/>
 </div>
-
-<h3 align="left">Languages and Tools:</h3>
